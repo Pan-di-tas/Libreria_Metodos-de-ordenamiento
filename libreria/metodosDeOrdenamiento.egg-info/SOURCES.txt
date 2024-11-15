@@ -1,0 +1,8 @@
+setup.py
+metodosDeOrdenamiento/__init__.py
+metodosDeOrdenamiento/metodosAlgoritmicos.py
+metodosDeOrdenamiento/metodosDirectos.py
+metodosDeOrdenamiento.egg-info/PKG-INFO
+metodosDeOrdenamiento.egg-info/SOURCES.txt
+metodosDeOrdenamiento.egg-info/dependency_links.txt
+metodosDeOrdenamiento.egg-info/top_level.txt
